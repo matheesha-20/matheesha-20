@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...big projects 
 - 📫 How to reach me ...send a mail to matheeshakavindu32@outlook.com
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...i wonna be a big software company owner
+- ⚡ Fun fact: ...
 
 <!---
 matheesha-20/matheesha-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
