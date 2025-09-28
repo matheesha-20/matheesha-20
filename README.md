@@ -53,8 +53,6 @@
 
 ###
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/matheesha/matheesha/blob/main/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/matheesha-20/matheesha-20/blob/output/github-contribution-grid-snake.gif)
 
 
