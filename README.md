@@ -45,12 +45,6 @@
 </div>
 
 ###
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheesha-20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
@@ -58,3 +52,7 @@
 </div>
 
 ###
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
